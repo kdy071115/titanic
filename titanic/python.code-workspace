@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "python",
+			"path": ".."
+		},
+		{
+			"name": "titanic",
+			"path": "../../../Downloads/titanic"
+		}
+	],
+	"settings": {}
+}
